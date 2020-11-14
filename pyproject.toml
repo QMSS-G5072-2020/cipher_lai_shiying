@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "cipher_sl4849"
-version = "0.1.0"
+version = "0.3.0"
 description = "Python package for Caesar cipher. You are able to use this package to encipher and decipher the codes."
 authors = ["Shiying Lai <sl4849@columbia.edu>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.7"
 
 [tool.poetry.dev-dependencies]
 sphinx = "^3.3.1"
