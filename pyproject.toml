@@ -1,9 +1,14 @@
 [tool.poetry]
 name = "cipher_sl4849"
-version = "0.3.0"
+version = "0.4.0"
 description = "Python package for Caesar cipher. You are able to use this package to encipher and decipher the codes."
 authors = ["Shiying Lai <sl4849@columbia.edu>"]
 license = "MIT"
+readme = "README.md"
+documentation = 'https://cipher-sl4849.readthedocs.io'
+homepage = "https://github.com/QMSS-G5072-2020/cipher_lai_shiying"
+repository = "https://github.com/QMSS-G5072-2020/cipher_lai_shiying"
+
 
 [tool.poetry.dependencies]
 python = "^3.7"
